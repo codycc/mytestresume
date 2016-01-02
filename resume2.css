@@ -69,7 +69,8 @@ body {
     border-radius:20px;
     letter-spacing: 8px;
     opacity:0.9;
-    border:1px solid white;
+    border:1px solid white; 
+    
 }
 
 .button1 a:hover {
@@ -191,4 +192,9 @@ height:50px;
         position:relative;
         float:right;   
     }    
+    .main {
+        position:relative;
+        text-align:center;
+        
+    }
 } 
